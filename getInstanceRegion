@@ -1,31 +1,46 @@
 {
-  "code": 0,
-  "msg": "",
-  "data": [
-    {
-      "name": "🌍 Auto Select",
-      "dc": [
-        { "name": "DC - Auto", "code": "dc-auto" }
-      ],
-"code":"auto"
-    },
-    {
-      "name": "🇩🇪 DE - Frankfurt",
-      "dc": [
-        { "name": "DC - Auto", "code": "de-frankfurt-auto" },
-        { "name": "DC - 1", "code": "de-frankfurt-1" },
-        { "name": "DC - 2", "code": "de-frankfurt-2" },
-        { "name": "DC - 3", "code": "de-frankfurt-3" },
-        { "name": "DC - 4", "code": "de-frankfurt-4" }
-      ],
-"code":"DE - Frankfurt"
-    },
- {
-      "name": "🇯🇵 JP - Tokyo",
-      "dc": [
-        { "name": "DC - 1", "code": "jp-tokyo-1" }
-      ],
-"code":"JP - Tokyo"
-    }
-  ]
+	"code": 0,
+	"msg": "",
+	"data": [{
+			"name": "🌍 Auto Select",
+			"dc": [{
+				"name": "DC - Auto",
+				"code": "dc-auto"
+			}],
+			"code": "auto"
+		},
+		{
+			"name": "🇩🇪 DE - Frankfurt",
+			"dc": [{
+					"name": "DC - Auto",
+					"code": "de-frankfurt-auto"
+				},
+				{
+					"name": "DC - 1",
+					"code": "de-frankfurt-1"
+				},
+				{
+					"name": "DC - 2",
+					"code": "de-frankfurt-2"
+				},
+				{
+					"name": "DC - 3",
+					"code": "de-frankfurt-3"
+				},
+				{
+					"name": "DC - 4",
+					"code": "de-frankfurt-4"
+				}
+			],
+			"code": "DE - Frankfurt"
+		},
+		{
+			"name": "🇯🇵 JP - Tokyo",
+			"dc": [{
+				"name": "DC - 1",
+				"code": "jp-tokyo-1"
+			}],
+			"code": "JP - Tokyo"
+		}
+	]
 }
