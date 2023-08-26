@@ -19,6 +19,13 @@
         { "name": "DC - 4", "code": "de-frankfurt-4" }
       ],
 "code":"DE - Frankfurt"
-    }
+    },
+ {
+      "name": "🇯🇵 JP - Tokyo",
+      "dc": [
+        { "name": "DC - 1", "code": "jp-tokyo-1" }
+      ],
+"code":"JP - Tokyo"
+    },
   ]
 }
