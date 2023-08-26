@@ -37,6 +37,9 @@
 		{
 			"name": "🇯🇵 JP - Tokyo",
 			"dc": [{
+					"name": "DC - Auto",
+					"code": "jp-tokyo-auto"
+				},{
 				"name": "DC - 1",
 				"code": "jp-tokyo-1"
 			}],
