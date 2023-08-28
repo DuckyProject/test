@@ -30,6 +30,14 @@
 				{
 					"name": "DC - 4",
 					"code": "de-frankfurt-4"
+				},
+				{
+					"name": "DC - 5",
+					"code": "de-frankfurt-5"
+				},
+				{
+					"name": "DC - 6",
+					"code": "de-frankfurt-6"
 				}
 			],
 			"code": "DE - Frankfurt"
