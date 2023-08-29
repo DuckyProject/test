@@ -38,6 +38,22 @@
 				{
 					"name": "DC - 6",
 					"code": "de-frankfurt-6"
+				},
+				{
+					"name": "DC - 7",
+					"code": "de-frankfurt-7"
+				},
+				{
+					"name": "DC - 8",
+					"code": "de-frankfurt-8"
+				},
+				{
+					"name": "DC - 9",
+					"code": "de-frankfurt-9"
+				},
+				{
+					"name": "DC - 10",
+					"code": "de-frankfurt-10"
 				}
 			],
 			"code": "DE - Frankfurt"
