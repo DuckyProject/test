@@ -10,144 +10,17 @@
 			"code": "Auto Select"
 		},
 		{
-			"name": "🇩🇪 DE - Frankfurt",
+			"name": "🇧🇷 BR - Saopaolo",
 			"dc": [{
 					"name": "DC - Auto",
-					"code": "de-frankfurt-auto"
-				},
-				{
-					"name": "DC - 1",
-					"code": "de-frankfurt-1"
-				},
-				{
-					"name": "DC - 2",
-					"code": "de-frankfurt-2"
+					"code": "br-saopaolo-auto"
 				},
 				{
 					"name": "DC - 3",
-					"code": "de-frankfurt-3"
-				},
-				{
-					"name": "DC - 4",
-					"code": "de-frankfurt-4"
-				},
-				{
-					"name": "DC - 5",
-					"code": "de-frankfurt-5"
-				},
-				{
-					"name": "DC - 6",
-					"code": "de-frankfurt-6"
-				},
-				{
-					"name": "DC - 7",
-					"code": "de-frankfurt-7"
-				},
-				{
-					"name": "DC - 8",
-					"code": "de-frankfurt-8"
-				},
-				{
-					"name": "DC - 9",
-					"code": "de-frankfurt-9"
-				},
-				{
-					"name": "DC - 10",
-					"code": "de-frankfurt-10"
+					"code": "br-saopaolo-3"
 				}
 			],
-			"code": "DE - Frankfurt"
-		},
-		{
-			"name": "🇯🇵 JP - Tokyo",
-			"dc": [{
-				"name": "DC - Auto",
-				"code": "jp-tokyo-auto"
-			}, {
-				"name": "DC - 1",
-				"code": "jp-tokyo-1"
-			}, {
-				"name": "DC - 2",
-				"code": "jp-tokyo-2"
-			}, {
-				"name": "DC - 3",
-				"code": "jp-tokyo-3"
-			}, {
-				"name": "DC - 4",
-				"code": "jp-tokyo-4"
-			}],
-			"code": "JP - Tokyo"
-		},
-		{
-			"name": "🇯🇵 JP - Osaka",
-			"dc": [{
-				"name": "DC - Auto",
-				"code": "jp-osaka-auto"
-			}, {
-				"name": "DC - 1",
-				"code": "jp-osaka-1"
-			}, {
-				"name": "DC - 2",
-				"code": "jp-osaka-2"
-			}],
-			"code": "JP - Osaka"
-		}, {
-			"name": "🇰🇷 KR - Seoul",
-			"dc": [{
-				"name": "DC - Auto",
-				"code": "kr-seoul-auto"
-			}, {
-				"name": "DC - 1",
-				"code": "kr-seoul-1"
-			}, {
-				"name": "DC - 2",
-				"code": "kr-seoul-2"
-			}, {
-				"name": "DC - 3",
-				"code": "kr-seoul-3"
-			}],
-			"code": "KR - Seoul"
-		}, {
-			"name": "🇰🇷 KR - Chuncheon",
-			"dc": [{
-				"name": "DC - Auto",
-				"code": "kr-chuncheon-auto"
-			}, {
-				"name": "DC - 1",
-				"code": "kr-chuncheon-1"
-			}, {
-				"name": "DC - 2",
-				"code": "kr-chuncheon-2"
-			}, {
-				"name": "DC - 3",
-				"code": "kr-chuncheon-3"
-			}, {
-				"name": "DC - 4",
-				"code": "kr-chuncheon-4"
-			}, {
-				"name": "DC - 5",
-				"code": "kr-chuncheon-5"
-			}, {
-				"name": "DC - 6",
-				"code": "kr-chuncheon-6"
-			}],
-			"code": "KR - Chuncheon"
-		}, {
-			"name": "🇸🇬 SG - Singapore",
-			"dc": [{
-				"name": "DC - Auto",
-				"code": "sg-singapore-auto"
-			}, {
-				"name": "DC - 1",
-				"code": "sg-singapore-1"
-			}, {
-				"name": "DC - 2",
-				"code": "sg-singapore-2"
-			}, {
-				"name": "DC - 3",
-				"code": "sg-singapore-3"
-			}],
-			"code": "SG - Singapore"
+			"code": "BR - Saopaolo"
 		}
 	]
 }
