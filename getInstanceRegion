@@ -21,6 +21,19 @@
 				}
 			],
 			"code": "BR - Saopaolo"
+		},
+{
+			"name": "🇨🇦 CA - Toronto",
+			"dc": [{
+					"name": "DC - Auto",
+					"code": "ca-toronto-auto"
+				},
+				{
+					"name": "DC - 1",
+					"code": "ca-toronto-1"
+				}
+			],
+			"code": "CA - Toronto"
 		}
 	]
 }
