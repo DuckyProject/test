@@ -1,7 +1,10 @@
 {
-	"code":0,
+	"code": 0,
 	"msg": "",
 	"data": {
-		"remain": 0
+		"account": {
+			"type": "free",
+			"remain": 0
+		}
 	}
 }
