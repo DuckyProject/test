@@ -1,0 +1,23 @@
+{
+	"code": 0,
+	"msg": "",
+	"noc": "",
+	"data": [{
+		"region": {
+			"name": "DE - Frankfurt",
+			"code": "de",
+			"dc": "DC - 1"
+
+		},
+		"provider": "Oracle",
+		"arch": "Amd64",
+		"load": {
+			"lastOne": 0.00,
+			"lastFive": 0.00,
+			"lastFifteen": 0.00
+		},
+		"cpu_usage": 58,
+		"global_available": true,
+		"china_available": false
+	}]
+}
