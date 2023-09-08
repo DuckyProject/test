@@ -6,18 +6,22 @@
 		"region": {
 			"name": "DE - Frankfurt",
 			"code": "de",
-			"dc": "DC - 1"
+			"nodes": [{
+					"dc": "DC - 1",
+					"provider": "Oracle",
+					"arch": "Amd64",
+					"load": {
+						"load1": 0.00,
+						"load5": 0.00,
+						"load15": 0.00
+					},
+					"cpu_usage": 58,
+					"global_available": true,
+					"china_available": false
+				}
 
-		},
-		"provider": "Oracle",
-		"arch": "Amd64",
-		"load": {
-			"load1": 0.00,
-			"load5": 0.00,
-			"load15": 0.00
-		},
-		"cpu_usage": 58,
-		"global_available": true,
-		"china_available": false
+			]
+		}
+
 	}]
 }
