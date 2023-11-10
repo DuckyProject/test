@@ -23,6 +23,38 @@
 						}]
 					}
 				}]
+			},{
+				"region_name": {
+					"display": "KR - Seoul",
+					"country_code": "kr",
+					"value": "kr-seoul"
+				},
+				"domain": [{
+					"ad": {
+						"display": "AD - 1",
+						"code": 1,
+						"fd": [{
+							"display": "FD - 1",
+							"code": 1
+						}]
+					}
+				}]
+			},{
+				"region_name": {
+					"display": "AU - Sydney",
+					"country_code": "au",
+					"value": "au-sydney"
+				},
+				"domain": [{
+					"ad": {
+						"display": "AD - 1",
+						"code": 1,
+						"fd": [{
+							"display": "FD - 1",
+							"code": 1
+						}]
+					}
+				}]
 			}],
 			"option": [{
 				"region_unique_id": "eu_frankfurt_1",
