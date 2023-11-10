@@ -1,0 +1,58 @@
+{
+	"code": 0,
+	"msg": "",
+	"data": {
+		"region": {
+			"msg": {
+				"content": "nihao",
+				"type": "info"
+			},
+			"data": [{
+				"region": {
+					"region_name": {
+						"display": "DE - Frankfurt",
+						"country_code": "de",
+						"value": "de-frankfurt"
+					},
+					"domain": [{
+						"ad": {
+							"display": "AD - 1",
+							"code": 1,
+							"fd": [{
+								"display": "FD - 1",
+								"code": 1
+							}]
+						}
+					}]
+				},
+				"option": [{
+					"region_unique_id": "eu_frankfurt_1",
+					"shape": [{
+						"icon": "static/duckyci",
+						"value": "nb",
+						"type": "free",
+						"ip": "nat_ipv4",
+						"ddns": [true, false],
+						"image": [{
+							"base": {
+								"icon": "11111",
+								"display": "Ubuntu",
+								"code": "ubuntu"
+							},
+							"branch": [{
+								"name": "Ubuntu 20.04",
+								"code": "ubuntu20"
+							}, {
+								"name": "Debian 11",
+								"code": "debian11"
+							}, {
+								"name": "Alpine 3.11",
+								"code": "apline3.11"
+							}]
+						}]
+					}]
+				}]
+			}]
+		}
+	}
+}
