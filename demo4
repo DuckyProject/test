@@ -57,7 +57,7 @@
 				}]
 			}],
 			"option": [{
-				"region_unique_id": "eu_frankfurt_1",
+				"region_unique_id": "eu_frankfurt_1_1",
 				"shape": [{
 					"name": "DM",
 					"description": "Ducky VM",
