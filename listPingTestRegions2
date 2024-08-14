@@ -3,8 +3,12 @@
   "msg": "",
   "data": [
     {
-      "name": "AP - Singapore",
+      "name": "AP - Singapore - 1",
       "link": "objectstorage.ap-singapore-1.oraclecloud.com"
+    },
+    {
+      "name": "AP - Singapore - 2",
+      "link": "objectstorage.ap-singapore-2.oraclecloud.com"
     },
     {
       "name": "AP - Seoul",
