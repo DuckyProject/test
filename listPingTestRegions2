@@ -3,6 +3,34 @@
   "msg": "",
   "data": [
     {
+      "name": "AF - Johannesburg",
+      "link": "objectstorage.af-johannesburg-1.oraclecloud.com"
+    },
+    {
+      "name": "AP - Chuncheon",
+      "link": "objectstorage.ap-chuncheon-1.oraclecloud.com"
+    },
+    {
+      "name": "AP - Hyderabad",
+      "link": "objectstorage.ap-hyderabad-1.oraclecloud.com"
+    },
+    {
+      "name": "AP - Melbourne",
+      "link": "objectstorage.ap-melbourne-1.oraclecloud.com"
+    },
+    {
+      "name": "AP - Mumbai",
+      "link": "objectstorage.ap-mumbai-1.oraclecloud.com"
+    },
+    {
+      "name": "AP - Osaka",
+      "link": "objectstorage.ap-osaka-1.oraclecloud.com"
+    },
+    {
+      "name": "AP - Seoul",
+      "link": "objectstorage.ap-seoul-1.oraclecloud.com"
+    },
+    {
       "name": "AP - Singapore - 1",
       "link": "objectstorage.ap-singapore-1.oraclecloud.com"
     },
@@ -11,24 +39,12 @@
       "link": "objectstorage.ap-singapore-2.oraclecloud.com"
     },
     {
-      "name": "AP - Seoul",
-      "link": "objectstorage.ap-seoul-1.oraclecloud.com"
-    },
-    {
       "name": "AP - Sydney",
       "link": "objectstorage.ap-sydney-1.oraclecloud.com"
     },
     {
-      "name": "AP - Melbourne",
-      "link": "objectstorage.ap-melbourne-1.oraclecloud.com"
-    },
-    {
-      "name": "SA - Saopaulo",
-      "link": "objectstorage.sa-saopaulo-1.oraclecloud.com"
-    },
-    {
-      "name": "SA - Vinhedo",
-      "link": "objectstorage.sa-vinhedo-1.oraclecloud.com"
+      "name": "AP - Tokyo",
+      "link": "objectstorage.ap-tokyo-1.oraclecloud.com"
     },
     {
       "name": "CA - Montreal",
@@ -39,72 +55,28 @@
       "link": "objectstorage.ca-toronto-1.oraclecloud.com"
     },
     {
-      "name": "SA - Santiago",
-      "link": "objectstorage.sa-santiago-1.oraclecloud.com"
-    },
-    {
-      "name": "EU - Paris",
-      "link": "objectstorage.eu-paris-1.oraclecloud.com"
-    },
-    {
-      "name": "EU - Marseille",
-      "link": "objectstorage.eu-marseille-1.oraclecloud.com"
+      "name": "EU - Amsterdam",
+      "link": "objectstorage.eu-amsterdam-1.oraclecloud.com"
     },
     {
       "name": "EU - Frankfurt",
       "link": "objectstorage.eu-frankfurt-1.oraclecloud.com"
     },
     {
-      "name": "AP - Hyderabad",
-      "link": "objectstorage.ap-hyderabad-1.oraclecloud.com"
+      "name": "EU - Madrid",
+      "link": "objectstorage.eu-madrid-1.oraclecloud.com"
     },
     {
-      "name": "AP - Mumbai",
-      "link": "objectstorage.ap-mumbai-1.oraclecloud.com"
-    },
-    {
-      "name": "IL - Jerusalem",
-      "link": "objectstorage.il-jerusalem-1.oraclecloud.com"
+      "name": "EU - Marseille",
+      "link": "objectstorage.eu-marseille-1.oraclecloud.com"
     },
     {
       "name": "EU - Milan",
       "link": "objectstorage.eu-milan-1.oraclecloud.com"
     },
     {
-      "name": "AP - Osaka",
-      "link": "objectstorage.ap-osaka-1.oraclecloud.com"
-    },
-    {
-      "name": "AP - Tokyo",
-      "link": "objectstorage.ap-tokyo-1.oraclecloud.com"
-    },
-    {
-      "name": "MX - Queretaro",
-      "link": "objectstorage.mx-queretaro-1.oraclecloud.com"
-    },
-    {
-      "name": "MX - Monterrey",
-      "link": "objectstorage.mx-monterrey-1.oraclecloud.com"
-    },
-    {
-      "name": "EU - Amsterdam",
-      "link": "objectstorage.eu-amsterdam-1.oraclecloud.com"
-    },
-    {
-      "name": "ME - Jeddah",
-      "link": "objectstorage.me-jeddah-1.oraclecloud.com"
-    },
-    {
-      "name": "AF - Johannesburg",
-      "link": "objectstorage.af-johannesburg-1.oraclecloud.com"
-    },
-    {
-      "name": "AP - Chuncheon",
-      "link": "objectstorage.ap-chuncheon-1.oraclecloud.com"
-    },
-    {
-      "name": "EU - Madrid",
-      "link": "objectstorage.eu-madrid-1.oraclecloud.com"
+      "name": "EU - Paris",
+      "link": "objectstorage.eu-paris-1.oraclecloud.com"
     },
     {
       "name": "EU - Stockholm",
@@ -115,7 +87,11 @@
       "link": "objectstorage.eu-zurich-1.oraclecloud.com"
     },
     {
-      "name": "ME - Abudhabi",
+      "name": "IL - Jerusalem",
+      "link": "objectstorage.il-jerusalem-1.oraclecloud.com"
+    },
+    {
+      "name": "ME - Abu Dhabi",
       "link": "objectstorage.me-abudhabi-1.oraclecloud.com"
     },
     {
@@ -123,12 +99,48 @@
       "link": "objectstorage.me-dubai-1.oraclecloud.com"
     },
     {
-      "name": "UK - London",
-      "link": "objectstorage.uk-london-1.oraclecloud.com"
+      "name": "ME - Jeddah",
+      "link": "objectstorage.me-jeddah-1.oraclecloud.com"
+    },
+    {
+      "name": "ME - Riyadh",
+      "link": "objectstorage.me-riyadh-1.oraclecloud.com"
+    },
+    {
+      "name": "MX - Monterrey",
+      "link": "objectstorage.mx-monterrey-1.oraclecloud.com"
+    },
+    {
+      "name": "MX - Queretaro",
+      "link": "objectstorage.mx-queretaro-1.oraclecloud.com"
+    },
+    {
+      "name": "SA - Bogota",
+      "link": "objectstorage.sa-bogota-1.oraclecloud.com"
+    },
+    {
+      "name": "SA - Sao Paulo",
+      "link": "objectstorage.sa-saopaulo-1.oraclecloud.com"
+    },
+    {
+      "name": "SA - Santiago",
+      "link": "objectstorage.sa-santiago-1.oraclecloud.com"
+    },
+    {
+      "name": "SA - Valparaiso",
+      "link": "objectstorage.sa-valparaiso-1.oraclecloud.com"
+    },
+    {
+      "name": "SA - Vinhedo",
+      "link": "objectstorage.sa-vinhedo-1.oraclecloud.com"
     },
     {
       "name": "UK - Cardiff",
       "link": "objectstorage.uk-cardiff-1.oraclecloud.com"
+    },
+    {
+      "name": "UK - London",
+      "link": "objectstorage.uk-london-1.oraclecloud.com"
     },
     {
       "name": "US - Ashburn",
@@ -143,7 +155,7 @@
       "link": "objectstorage.us-phoenix-1.oraclecloud.com"
     },
     {
-      "name": "US - Sanjose",
+      "name": "US - San Jose",
       "link": "objectstorage.us-sanjose-1.oraclecloud.com"
     }
   ]
